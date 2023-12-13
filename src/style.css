@@ -9,6 +9,10 @@
   @tailwind utilities;
 }
 
+html{
+  font-size: 14px;
+}
+
 :root {
   --primary-50: 236 253 245;
   --primary-100: 209 250 229;
@@ -22,16 +26,16 @@
   --primary-900: 4 78 56;
   --primary-950: 2 44 34;
 
-  --surface-0: 250 250 250;
-  --surface-50: 245 245 245;
-  --surface-100: 229 229 229;
-  --surface-200: 212 212 212;
-  --surface-300: 163 163 163;
-  --surface-400: 115 115 115;
-  --surface-500: 82 82 82;
-  --surface-600: 64 64 64;
-  --surface-700: 38 38 38;
-  --surface-800: 24 24 24;
-  --surface-900: 17 17 17;
-  --surface-950: 10 10 10;
+  --surface-0: 248 250 252;
+  --surface-50: 241 245 249;
+  --surface-100: 226 232 240;
+  --surface-200: 203 213 225;
+  --surface-300: 148 163 184;
+  --surface-400: 100 116 139;
+  --surface-500: 71 85 105;
+  --surface-600: 45 55 72;
+  --surface-700: 30 41 59;
+  --surface-800: 15 23 42;
+  --surface-900: 3 6 23;
+  --surface-950: 2 6 23;
 }
